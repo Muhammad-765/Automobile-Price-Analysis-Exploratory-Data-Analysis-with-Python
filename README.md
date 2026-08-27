@@ -204,6 +204,8 @@ automobile-price-eda-python/
 ├── data/
 │   └── automobileEDA.csv
 │
+├── images/
+|
 ├── notebooks/
 │   └── Exploratory_Data_Analysis_with_Python.ipynb
 │
