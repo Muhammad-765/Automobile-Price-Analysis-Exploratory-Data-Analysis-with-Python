@@ -66,15 +66,33 @@ Visualizations were used to investigate relationships between numerical variable
 Regression plots were used to examine relationships such as:
 
 - Engine size vs. price
+  
+  <img width="587" height="429" alt="engine_size_vs_price png" src="https://github.com/user-attachments/assets/1c17c8be-8c52-43f5-823b-5f01c65e4475" />
+  
+The analysis showed a strong positive relationship between engine size and price.
+
 - Highway MPG vs. price
+  
+  <img width="598" height="428" alt="highway_mpg_vs_price png" src="https://github.com/user-attachments/assets/418e0d89-f3f6-45b9-ac66-a2319d3880f4" />
+  
+Highway MPG showed a negative relationship with price.
+
 - Peak RPM vs. price
 - Stroke vs. price
 
 Categorical variables were also analyzed using box plots, including:
 
 - Body style vs. price
+  
+  <img width="588" height="430" alt="body_style_vs_price png" src="https://github.com/user-attachments/assets/9d41a8ca-82c8-4354-9a7f-7a6fb09c229b" />
+
 - Engine location vs. price
+  
 - Drive wheels vs. price
+  
+  <img width="589" height="431" alt="drive_wheels_vs_price png" src="https://github.com/user-attachments/assets/66c950b6-d561-4775-8953-6f42ff6f59d0" />
+
+  
 
 ---
 
@@ -109,6 +127,9 @@ Automobile prices were grouped by drive-wheel and body-style categories.
 Grouped averages and pivot tables were created to compare pricing patterns across combinations of categorical variables.
 
 Heatmaps were then used to visualize the grouped results.
+
+<img width="478" height="468" alt="price_heatmap png" src="https://github.com/user-attachments/assets/97407a96-cccb-4742-8cae-24bd235dc815" />
+
 
 ---
 
